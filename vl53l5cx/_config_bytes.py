@@ -1,10 +1,6 @@
 ###
 
 
-# Copyright (c) 2021 Mark Grosen <mark@grosen.org>
-#
-# SPDX-License-Identifier: MIT
-
 # TODO: enable changing this in the _DEFAULT_CONFIG data below
 # FW_NBTAR_RANGING = 2
 
