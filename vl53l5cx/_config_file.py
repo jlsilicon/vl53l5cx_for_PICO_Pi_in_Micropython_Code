@@ -1,10 +1,6 @@
 ###
 
 
-# Copyright (c) 2021 Mark Grosen <mark@grosen.org>
-#
-# SPDX-License-Identifier: MIT
-
 import sys
 from os import stat
 
