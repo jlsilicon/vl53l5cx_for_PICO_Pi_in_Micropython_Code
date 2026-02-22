@@ -1,5 +1,4 @@
 ###  all_data.py
-## - WORKS ! 
 
 
 from time import sleep
