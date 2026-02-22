@@ -1,10 +1,6 @@
 ###
 
 
-import sys
-from os import stat
-
-
 def _find_file(name, req_size):
     file = None
     size_on_disk = 0
