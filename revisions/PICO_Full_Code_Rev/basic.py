@@ -1,7 +1,4 @@
 ###  basic.py
-## - WORKS !
-
-## https://github.com/mp-extras/vl53l5cx/tree/main
 
 
 # from sensor import make_sensor
