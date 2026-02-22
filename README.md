@@ -1,13 +1,13 @@
 # vl53l5cx_for_PICO_Pi_in_Micropython_Code
-Quick drop-in rev of vl53l5cx Lidar Code in Micrpython for PICO Pi Board.
+This is meant as a Quick-Drop-in Code rev of VL53L5CX Lidar Code in Micrpython for PICO Pi Board.
 
-This is a group of files for copying onto PICO Pi Directiory with Thonny.
+This is a group of files for running the Lidar VL53L5CX on PICO , by copying onto PICO Pi Directiory with Thonny.
 
-I spent a large chunk of timde trying to figure out how to use the vl53l5cx Lidar on PICO or arduino.
+I spent a large chunk of time trying to figure out how to use the vl53l5cx Lidar on PICO or arduino.
 Arduino Uno/Nano can't do this because a chunk of RAM is needed to process the readings.
 
 But, code for the PICO kept refeing back to Pimoroni code / Breakout_vl53l5cx :
-  https://github.com/pimoroni/pimoroni-pico/blob/main/micropython/examples/breakout_vl53l5cx/vl53l5cx_demo.py
+  https://github.com/pimoroni/pimoroni-pico/blob/main/micropython/examples/breakout_vl53l5cx/vl53l5cx_demo.py . 
 Which is not correct , because this code is built to run on Linux on raspberry Pi, and the PICO can not support this code (no Linux and too many files for the flash).
 
 -
