@@ -23,9 +23,18 @@ https://github.com/mp-extras/vl53l5cx/blob/main/examples/basic.py
 
 -
 
-This code rev is simple.  Copy the dir /vl53l5cx onto the PICO - with Thonny.
-And, add basic.py onto the main dir / to execute.
+This code rev is simple :  
+
+1. Copy the dir /vl53l5cx onto the PICO - with Thonny.
+
+2. Copy vl53l5cx_firmware.bin onto PICO Root Dir (/).
+
+3. And, add basic.py onto the PICO Root dir (/) to execute.
 This file can be modified - to return readings to other calling code files.
+
+-
+
+The Revisions Dir is just versions of this code.  Full_Code - just includes other support files for Linux work.
 
 -
 
